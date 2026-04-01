@@ -1,0 +1,5 @@
+{
+  "name": "DirectJob",
+  "description": "A minimal, modern job search tool that uses AI to find direct application links and HR contacts, bypassing noisy job boards.",
+  "requestFramePermissions": []
+}
